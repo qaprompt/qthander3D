@@ -1,4 +1,4 @@
 matplotlib>=3.2.2
 numpy>=1.19.1
 PyQt5>=5.9.2
-mayavi>=4.5
+mayavi>=4.3.1
