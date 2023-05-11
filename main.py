@@ -1,7 +1,7 @@
 import sys
 import numpy as np
 from mayavi import mlab
-from PyQt5.QtWidgets import QApplication, QWidget, QPushButton  
+from PyQt5.QtWidgets import QApplication, QVBoxLayout, QWidget, QPushButton  
 from PyQt5.QtCore import pyqtSlot
 
 # 三维坐标点集 
